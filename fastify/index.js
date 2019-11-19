@@ -1,5 +1,5 @@
 const { ApolloServer } = require('apollo-server-fastify');
-const { typeDefs, resolvers } = require('./schema');
+const { typeDefs, resolvers } = require('../schema');
 
 const server = new ApolloServer({
   typeDefs,
