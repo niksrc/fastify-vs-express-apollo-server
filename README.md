@@ -3,7 +3,4 @@
 
 # Tests
 - [x] Hello World
-- [ ] Real World (CRUD backed by redis)
-- [ ] Evaluate express-session compatibilty
-- [ ] Evalute graphql-subscription compatibility with existing middleware
-- [ ] Profit
+- [x] Real World (CRUD backed by redis)
